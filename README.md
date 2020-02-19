@@ -64,6 +64,4 @@ You can do multiple things on the scene:
 - Press space to select the cam
 
 Short demo video <br/>
-<video width="640" height="480" controls><source src="images/rtv1_video00.mov" type="video/mov"></video><br/>
-
-
+<img src="images/demo.gif" width="600px"><br/>
