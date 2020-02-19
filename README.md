@@ -46,4 +46,4 @@ Launch rtv1
 
 You should have something like this:<br/>
 
-<img src="images/rt_screen_1.png" width="200px" >
+<img src="images/rt_screen_1.png" width="600px" >
