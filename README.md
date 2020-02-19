@@ -1,6 +1,6 @@
 # RT
 
-RT is a graphc project. The goal here is to recreate an entire Ray-Tracer.
+RT is a graphic project. The goal here is to recreate an entire Ray-Tracer.
 We choose the C language but It could be interesting to do it in C++ (especially for vectors and objects)
 
 Short description:
