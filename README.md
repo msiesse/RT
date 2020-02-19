@@ -65,3 +65,6 @@ You can do multiple things on the scene:
 
 Short demo video <br/>
 <img src="images/demo.gif" width="600px"><br/>
+
+## Authors
+* **Martin Siesse** [Msiesse](https://github.com/msiesse)
