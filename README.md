@@ -44,6 +44,6 @@ Launch rtv1
 ./rtv1
 ```
 
-You should have something like this:
+You should have something like this:<br/>
 
 <img src="images/rt_screen_1.png" width="200px" >
