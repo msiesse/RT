@@ -46,4 +46,24 @@ Launch rtv1
 
 You should have something like this:<br/>
 
-<img src="images/rt_screen_1.png" width="600px" >
+<img src="images/rt_screen_1.png" width="600px" ><br/>
+
+You can do multiple things on the scene:
+
+1) IF NOTHING IS SELECTED
+
+- Move cam with arrows keys
+- Rotate the cam with key x/y/z + arrow_up or down
+- You can select an object with the mouse
+
+2) IF AN OBJECT IS SELECTED
+
+- Move the object with arrow keys
+- Rotate the object with key x/y/z + arrow_up or down (except for the sphere)
+- You can select another object with the mouse
+- Press space to select the cam
+
+Short demo video <br/>
+<video width="640" height="480" controls><source src="images/rtv1_video00.mov" type="video/mov"></video><br/>
+
+
